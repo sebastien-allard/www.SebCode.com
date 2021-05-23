@@ -1,0 +1,22 @@
+.rst__rowTitleWithSubtitle {
+    height: initial;
+}
+
+.rst__rowSubtitle {
+    display: block;
+}
+
+.rst__rowContents {
+    border-radius: 0 5px 5px 0;
+    box-shadow: 0.15rem 0.15rem 0.25rem #333;
+}
+
+    .rst__rowContents .btn-outline-secondary,
+    .rst__rowContents .btn-outline-danger {
+        box-shadow: none;
+    }
+
+.rst__moveHandle {
+    border-radius: 5px 0 0 5px;
+    box-shadow: 0.15rem 0.15rem 0.25rem #333;
+}

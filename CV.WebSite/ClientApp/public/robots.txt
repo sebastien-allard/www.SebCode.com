@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /$
+Allow: /experience
+Allow: /technologies
+Allow: /formation
+Disallow: /
+Disallow: /api/
